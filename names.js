@@ -5,9 +5,9 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
   // Customize logic here for name-based PDF selection
   let pdfFile;
   if (["alice", "bob", "carol"].includes(name)) {
-    pdfFile = "pdfs/ECE 310 - Homework6.pdf";
+    pdfFile = "pdfs/ECE 310 - Homework 6.pdf";
   } else {
-    pdfFile = "pdfs/ECE 310 - Homework7.pdf";
+    pdfFile = "pdfs/ECE 310 - Homework 7.pdf";
   }
 
   // Redirect or open the selected PDF
