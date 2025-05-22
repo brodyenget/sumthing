@@ -6,10 +6,10 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
   let pdfFile;
   if (["alice", "bob", "carol"].includes(name)) {
     pdfFile = "pdfs/midterm.pdf";
+    window.location.href = pdfFile; // Redirect or open the selected PDF
   } else if (["brody, ines, beans"].includes(name)) {
     pdfFile = "pdfs/hw6.pdf";
+    window.location.href = pdfFile;
   }
 
-  // Redirect or open the selected PDF
-  window.location.href = pdfFile;
 });
