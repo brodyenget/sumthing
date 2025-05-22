@@ -7,19 +7,19 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
   // 1. Define groups and list their members (all names should be lowercase for consistency)
   const groupMembership = {
     "titans": [
-      "ashley", "kelly", "vi", "alex"
+      "brody", "tom", "pam", "alex"
     ],
     "olympians": [
-      "brody", "ines", "beans", "chris"
+      "ines", "tucker, "beans", "chris"
     ],
     "innovators": [
-      "charlie", "devon", "sam", "jordan"
+      "vi", "devon", "sam", "jordan"
     ],
     "voyagers": [
-      "fiona", "george", "morgan", "pat"
+      "beans", "george", "morgan", "pat"
     ],
     "pioneers": [
-      "ian", "jacinta", "leo", "max"
+      "kelly", "jacinta", "leo", "max"
     ]
     // To add a new group:
     // "newGroupName": [
