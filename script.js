@@ -6,11 +6,11 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
 
   // --- Configuration Section ---
   const groupMembership = {
-    "titans": ["brody", "tom", "pam", "alex"],
-    "olympians": ["ines", "tucker", "ford", "chris"],
-    "innovators": ["vi", "devon", "sam", "jordan"],
-    "voyagers": ["beans", "george", "morgan", "pat"],
-    "pioneers": ["kelly", "jacinta", "leo", "max"]
+    "titans": ["brody", "ashley", "justin", "zack"],
+    "olympians": ["ines", "pierre", "ford", "chris"],
+    "innovators": ["vi", "devon", "virgule", "jordan"],
+    "voyagers": ["beans", "nelson", "david", "pat"],
+    "pioneers": ["kelly", "lily", "leo", "max"]
   };
 
   const groupPdfs = {
