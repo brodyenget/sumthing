@@ -30,7 +30,7 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
   // 2. Define the PDF file for each group
   const groupPdfs = {
     "titans": "pdfs/proj3.pdf",
-    "olympians": "pdfs/lab8.pdf",
+    "olympians": "pdfs/Mechanical_Keyboard_Instructions.pdf",
     "innovators": "pdfs/hw8.pdf",
     "voyagers": "pdfs/hw7.pdf",
     "pioneers": "pdfs/cpu.pdf"
