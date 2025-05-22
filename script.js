@@ -32,7 +32,7 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
     "titans": "pdfs/proj3.pdf",
     "olympians": "pdfs/lab8.pdf",
     "innovators": "pdfs/hw8.pdf",
-    "voyagers": "pdfs/lhw7.pdf",
+    "voyagers": "pdfs/hw7.pdf",
     "pioneers": "pdfs/cpu.pdf"
     // To add a PDF for a new group:
     // "newGroupName": "pdfs/new_group_file.pdf"
