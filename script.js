@@ -29,11 +29,11 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
 
   // 2. Define the PDF file for each group
   const groupPdfs = {
-    "titans": "pdfs/hw6.pdf",
-    "olympians": "pdfs/hw7.pdf",
+    "titans": "pdfs/proj3.pdf",
+    "olympians": "pdfs/lab8.pdf",
     "innovators": "pdfs/hw8.pdf",
-    "voyagers": "pdfs/midterm.pdf",
-    "pioneers": "pdfs/hw6.pdf"
+    "voyagers": "pdfs/lhw7.pdf",
+    "pioneers": "pdfs/cpu.pdf"
     // To add a PDF for a new group:
     // "newGroupName": "pdfs/new_group_file.pdf"
   };
