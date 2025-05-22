@@ -10,7 +10,7 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
       "brody", "tom", "pam", "alex"
     ],
     "olympians": [
-      "ines", "tucker, "ford", "chris"
+      "ines", "tucker", "ford", "chris"
     ],
     "innovators": [
       "vi", "devon", "sam", "jordan"
