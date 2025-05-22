@@ -6,7 +6,7 @@ document.getElementById('nameForm').addEventListener('submit', function(event) {
   let pdfFile;
   if (["alice", "bob", "carol"].includes(name)) {
     pdfFile = "pdfs/midterm.pdf";
-  } else {
+  } else if (["brody, ines, beans"].includes(name)) {
     pdfFile = "pdfs/hw6.pdf";
   }
 
